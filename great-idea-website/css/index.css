@@ -74,10 +74,14 @@ h1, h2, h3, h4, h5 {
 	text-decoration: none;
 	color: grey;
 	margin: 50px;
-	 border: 1px solid grey;
-	 background-color: lightsalmon;
+	 
 	
 	
+  }
+
+  nav a:hover{
+	border: 1px solid grey;
+	background-color: lightsalmon;
   }
 	#iod {
 		
@@ -174,7 +178,7 @@ contact{
 }
 footer{
 	text-align:center;
-	font-size: 10px;
+	font-size: 15px;
 	
 }
 .getStarted{
