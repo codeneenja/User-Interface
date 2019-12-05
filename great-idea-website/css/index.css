@@ -79,10 +79,17 @@ h1, h2, h3, h4, h5 {
 	
   }
 
+  .getStarted:hover{
+	  background-color:red;
+	  color:black;
+  }
   nav a:hover{
-	border: 1px solid grey;
+	
 	background-color: lightsalmon;
   }
+
+  
+  
 	#iod {
 		
 		 /* display: inline-block;
@@ -94,11 +101,7 @@ h1, h2, h3, h4, h5 {
 		margin-left: 10%;
 		text-align:left;
 		font-size: 86px;
-		
-		
-		
-	
-		 
+			 
 	}
 	
  .moon{
