@@ -90,6 +90,8 @@ h1, h2, h3, h4, h5 {
 		margin-left: 10%;
 		text-align:left;
 		font-size: 80px;
+		
+		
 	
 		 
 	}
@@ -103,9 +105,10 @@ h1, h2, h3, h4, h5 {
 
 		display: inline-block;
 		width: 50%;
-		height: 150px;
+		height: 140px;
 		/* margin: 0 2%; */
 		margin-left: 170px;
+		
 	
 		
 		
@@ -164,12 +167,12 @@ h6{
 	width:100%;
 }
 contact{
-	text-align: center;
+	text-align: left;
 	margin-left: 1000px;
 	
 }
 footer{
-	text-align: center;
+	text-align:center;
 	font-size: 10px;
 	
 }
