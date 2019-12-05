@@ -64,3 +64,132 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+  nav a{
+	display: inline-block;
+	box-sizing: 100px;
+	
+	padding: 20px;
+	
+	text-decoration: none;
+	color: grey;
+	margin: 50px;
+	 
+	
+	
+  }
+
+  .getStarted:hover{
+	  background-color:red;
+	  color:black;
+  }
+  nav a:hover{
+	
+	background-color: lightsalmon;
+  }
+
+  
+  
+	#iod {
+		
+		 /* display: inline-block;
+		 width: 20%;
+		 align-content: justify; */
+		display: inline-block;
+		width:30%;
+		
+		margin-left: 10%;
+		text-align:left;
+		font-size: 86px;
+			 
+	}
+	
+ .moon{
+	/* display: inline-block;
+	margin-left: 75%;
+	 /* -90px; */ 
+	/* height: 10px;
+	width: 80%; */
+
+		display: inline-block;
+		width: 50%;
+		height: 140px;
+		/* margin: 0 2%; */
+		margin-left: 170px;
+	
+	
+		
+		
+	} 
+	
+
+
+	.features{
+	
+		display: inline-block;
+		width: 40%;
+		height: 150px;
+		margin: 0 auto;
+		
+		
+	}
+	.about{
+		display: inline-block;
+		width: 40%;
+		height: 150px;
+		margin: 0 2%;
+		
+		
+	}
+h6{
+	font-weight: bold;
+}
+
+.services{
+	
+	display: inline-block;
+	width: 30%;
+	height: 150px;
+	margin: 0 auto;
+	
+	
+}
+.product{
+	display: inline-block;
+	width: 30%;
+	height: 150px;
+	margin: 0 auto;
+	
+	
+}
+.vision{
+	display: inline-block;
+	width: 30%;
+	height: 150px;
+	margin: 0 auto;
+	
+	
+	
+}
+.middle-img{
+	width:85%;
+}
+contact{
+	text-align: left;
+	margin-left: 1000px;
+	
+}
+footer{
+	text-align:center;
+	font-size: 15px;
+	
+}
+.getStarted{
+	display: inline-block;
+	border:1px solid black;
+	color:grey;
+	font-size: 40px;
+	width: 30%;
+	text-decoration:none;
+	
+}
